@@ -1,5 +1,11 @@
 # ActividadesSostenibles
 
+<div align="center">
+  <img src="img/tierra.gif" alt="si" />
+</div>
+
+
+
 ## [1.- Impacto ambiental del sector TI](impacto.md)
 
 Alto consumo energético de los centros de datos.
