@@ -1,5 +1,11 @@
 # ActividadesSostenibles
 
+<div align="center">
+  <img src="img/tierra.gif" alt="si" />
+</div>
+
+
+
 ## [1.- Impacto ambiental del sector TI](impacto.md)
 
 Alto consumo energético de los centros de datos.
@@ -27,7 +33,7 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 ### [Glosario](glosario.md)
 
 ### Referencias  
-
+[IBM](https://www.ibm.com/es-es/think/topics/sustainable-it)
 ### Autores  
 
 [I.B.L](https://github.com/IvanBL8)
