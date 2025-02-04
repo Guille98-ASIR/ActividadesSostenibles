@@ -21,7 +21,11 @@ Reciclaje y reutilización de equipos electrónicos.
 Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS).
 
 Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental.  
+
 Mapa conceptual (Herramientas utilizada)  
-Glosario (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales)  
+
+Glosario (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales) 
+
 Referencias  
+
 Autores  
