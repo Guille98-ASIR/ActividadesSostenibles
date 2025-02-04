@@ -31,4 +31,5 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 ### Autores  
 
 [I.B.L](https://github.com/IvanBL8)
+
 [G.C.R](https://github.com/Guille98-ASIR)
