@@ -34,6 +34,9 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 ### Referencias  
 [IBM](https://www.ibm.com/es-es/think/topics/sustainable-it)
+
+[SALLE](https://blogs.salleurl.edu/es/consumo-de-energia-de-un-centro-de-datos)
+
 ### Autores  
 
 [I.B.L](https://github.com/IvanBL8)
