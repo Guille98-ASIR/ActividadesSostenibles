@@ -8,7 +8,7 @@ Generación de residuos electrónicos.
 
 Emisiones de CO₂ y contaminación.
 
-## 2.- Estrategias de sostenibilidad en TI
+## [2.- Estrategias de sostenibilidad en TI](estrategia.md)
 
 Uso de energías renovables (solar, eólica).
 
@@ -16,7 +16,7 @@ Optimización del hardware y virtualización.
 
 Reciclaje y reutilización de equipos electrónicos.
 
-## 3.- Ejemplos y buenas prácticas
+## [3.- Ejemplos y buenas prácticas](ejemplo.md)
 
 Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS).
 
