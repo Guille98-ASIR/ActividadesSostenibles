@@ -1,6 +1,12 @@
 ## Estrategias de sostenibilidad en TI
 
 
+
+[renovable](img/estrategia.gif)
+
+
+
+
 También conocida como TI verde, la TI sostenible implica encontrar formas de diseñar, fabricar, usar y desechar equipos informáticos de forma respetuosa con el medio ambiente. 
 También incluye entender el impacto de toda la operación de TI para identificar las oportunidades de reducir las emisiones de carbono y crear eficiencia energética.
 
@@ -29,7 +35,7 @@ Empresas como Google y Microsoft han logrado ser neutrales en emisiones de carbo
 **Energía más sostenible:** La energía solar y eólica son fuentes casi inagotables, lo que las hace ideales para el futuro a largo plazo.
 
 
-[imagen]()
+[renovable](img/renovable.gif)
 
 
 # Optimización del hardware y virtualización
@@ -44,8 +50,13 @@ Este proceso implica mejorar la eficiencia de los dispositivos de TI, como orden
 
 **Algunas técnicas incluyen:**
 
+
   **Mejorar la gestión térmica para evitar el sobrecalentamiento.**
+
+  
   **Utilizar componentes más eficientes que consuman menos energía, como discos duros SSD frente a discos mecánicos.**
+
+  
   **Implementar tecnologías de apagado automático o modo de bajo consumo en equipos que no están en uso.**
 
 
@@ -76,9 +87,13 @@ El reciclaje y la reutilización de equipos electrónicos son fundamentales para
 Los dispositivos electrónicos contienen materiales valiosos, como metales preciosos y plásticos, que pueden ser recuperados y reutilizados, evitando que terminen en vertederos donde pueden liberar sustancias tóxicas al medio ambiente.
 
 
+
 El reciclaje electrónico, o e-waste recycling, implica desmantelar los equipos electrónicos obsoletos y separar sus componentes (como plásticos, metales, vidrio, etc.) para ser reutilizados en la fabricación de nuevos productos. Este proceso ayuda a:
 
+
 **Recuperar materiales valiosos:** Los dispositivos contienen metales como oro, plata y cobre, que pueden ser recuperados y reutilizados.
+
+
 **Reducir la contaminación:** Al reciclar adecuadamente los productos electrónicos, se previene que sustancias tóxicas, como el plomo o el mercurio, contaminen el medio ambiente.
 
 
@@ -88,10 +103,18 @@ La reutilización de equipos implica alargar la vida útil de los dispositivos e
 
   
   **Renovar dispositivos:** En lugar de desechar un equipo que ya no cumple su función, se pueden reemplazar algunos componentes (como la memoria RAM o el disco duro) para que siga siendo útil.
+
+  
   **Donar equipos:** Los equipos electrónicos que ya no se necesitan pueden ser donados a organizaciones benéficas, escuelas o comunidades que los necesiten, evitando que se conviertan en residuos.
+
 
 **Beneficios:**
 
 **Reducción de residuos:** Menos dispositivos desechados significa menos basura electrónica, lo que reduce la contaminación.
+
+
 **Ahorro de recursos:** El reciclaje y la reutilización permiten que los recursos naturales, como metales y plásticos, no tengan que ser extraídos nuevamente.
+
+
 **Menos impacto ambiental:** Al reducir la cantidad de equipos electrónicos desechados, se minimiza el impacto de la minería y la fabricación de nuevos productos.
+
