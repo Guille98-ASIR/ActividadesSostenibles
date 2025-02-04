@@ -8,3 +8,11 @@ Otro problema que presenta, son las emisiones de CO2, no se puede calcular con e
 
 # Generación de residuos electrónicos
 
+Al ir creciendo el uso de la teconología, se irán desechando todo tipo de dispositivos electronicos, estos son complicados de reciclar o de volver a utilizar, por su obsolescencia programada.
+
+Muchos dispositivos contienen metales como mercurio, plomo y cadmio, que pueden filtrarse al suelo y el agua, contaminandolo.
+
+Como se ha indicado antes, sus emisiones de CO2 son preocupantes, porque consumen muchas electricidad, para que te puedas hacer una idea, entre todos los cpd, consumen mas energía que Francia.
+
+
+
