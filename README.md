@@ -8,7 +8,7 @@ Generación de residuos electrónicos.
 
 Emisiones de CO₂ y contaminación.
 
-## [2.- Estrategias de sostenibilidad en TI](estrategia.md)
+## [2.- Estrategias de sostenibilidad en TI](estrategias.md)
 
 Uso de energías renovables (solar, eólica).
 
@@ -22,9 +22,9 @@ Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS).
 
 Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental.  
 
-### Mapa conceptual (Herramientas utilizada)  
+### [Mapa conceptual](mapa.md)
 
-### Glosario (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales) 
+### [Glosario](glosario.md) (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales) 
 
 ### Referencias  
 
