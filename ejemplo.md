@@ -46,7 +46,7 @@ Las grandes empresas tecnológicas como Google, Microsoft y AWS (Amazon Web Serv
 
 ## Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental
 
-En el mundo de la tecnología, también tenemos una gran responsabilidad con el medio ambiente. Aunque a veces no lo parezca, nuestras decisiones diarias pueden ayudar a reducir el impacto ambiental de la industria. Aquí te dejo algunas acciones clave que podemos tomar como profesionales de TI para ser más sostenibles:
+En el mundo de la tecnología, también tenemos una gran responsabilidad con el medio ambiente. Aunque a veces no lo parezca, nuestras decisiones diarias pueden ayudar a reducir el impacto ambiental de la industria.
 
 ### 🌱 Optimizar el consumo de energía
 
