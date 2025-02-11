@@ -2,7 +2,7 @@
 
 
 
-[si](/img/estrategia.gif)
+![si](/img/estrategia.gif)
 
 
 
@@ -35,7 +35,7 @@ Empresas como Google y Microsoft han logrado ser neutrales en emisiones de carbo
 **Energía más sostenible:** La energía solar y eólica son fuentes casi inagotables, lo que las hace ideales para el futuro a largo plazo.
 
 
-[renovable](/img/renovable.gif)
+![renovable](/img/renovable.gif)
 
 
 # Optimización del hardware y virtualización
