@@ -39,6 +39,8 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 [CHATGPT](https://chatgpt.com/)
 
+[PORTALAMBIENTAL](https://www.portalambiental.com.mx/empresas/20240717/aws-google-meta-microsoft-y-schneider-electric-impulsan-la-descarbonizacion)
+
 ### Autores  
 
 [I.B.L](https://github.com/IvanBL8)
