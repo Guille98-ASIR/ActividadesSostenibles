@@ -76,7 +76,7 @@ En el mundo de la tecnología, también tenemos una gran responsabilidad con el 
     
   ·Digitalizar documentos y procesos nos ayuda a reducir el desperdicio de papel y tinta.
 
-## 🌍 Fomentar una cultura más sostenible
+### 🌍 Fomentar una cultura más sostenible
 
   ·Aprender más sobre tecnología verde y compartir ese conocimiento con nuestros equipos.
     
