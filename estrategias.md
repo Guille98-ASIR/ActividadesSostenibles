@@ -1,11 +1,9 @@
 ## Estrategias de sostenibilidad en TI
 
 
-
-![si](/img/estrategia.gif)
-
-
-
+<p align="center">
+  <img src="/img/estrategia.gif" alt="si" width="300">
+</p>
 
 También conocida como TI verde, la TI sostenible implica encontrar formas de diseñar, fabricar, usar y desechar equipos informáticos de forma respetuosa con el medio ambiente. 
 También incluye entender el impacto de toda la operación de TI para identificar las oportunidades de reducir las emisiones de carbono y crear eficiencia energética.
@@ -34,9 +32,9 @@ Empresas como Google y Microsoft han logrado ser neutrales en emisiones de carbo
     
 **Energía más sostenible:** La energía solar y eólica son fuentes casi inagotables, lo que las hace ideales para el futuro a largo plazo.
 
-
-![renovable](/img/renovable.gif)
-
+<p align="center">
+  <img src="/img/renovable.gif" alt="no" width="300">
+</p>
 
 # Optimización del hardware y virtualización
 
