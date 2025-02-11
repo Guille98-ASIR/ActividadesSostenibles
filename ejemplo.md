@@ -1,6 +1,6 @@
 # 3.- Ejemplos y buenas prácticas
 
-### Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS)
+## Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS)
 
 Las grandes empresas tecnológicas como Google, Microsoft y AWS (Amazon Web Services) han implementado diversas medidas sostenibles para reducir su impacto ambiental y avanzar hacia la neutralidad de carbono
 
@@ -44,11 +44,11 @@ Las grandes empresas tecnológicas como Google, Microsoft y AWS (Amazon Web Serv
   <img src="/img/aws.gif" alt="si" width="300">
 </p>
 
-### Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental
+## Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental
 
 En el mundo de la tecnología, también tenemos una gran responsabilidad con el medio ambiente. Aunque a veces no lo parezca, nuestras decisiones diarias pueden ayudar a reducir el impacto ambiental de la industria. Aquí te dejo algunas acciones clave que podemos tomar como profesionales de TI para ser más sostenibles:
 
-🌱 Optimizar el consumo de energía
+### 🌱 Optimizar el consumo de energía
 
   ·Si trabajamos con servidores, podemos reducir su consumo usando virtualización y computación en la nube en lugar de depender de hardware físico.
   
@@ -56,7 +56,7 @@ En el mundo de la tecnología, también tenemos una gran responsabilidad con el 
   
   ·Si tenemos que elegir proveedores de nube, mejor optar por los que usan energía renovable, como AWS, Google Cloud o Azure.
 
-🔄 Reducir los residuos electrónicos
+### 🔄 Reducir los residuos electrónicos
 
   ·En lugar de comprar dispositivos nuevos todo el tiempo, podemos darles una segunda vida actualizando su RAM, almacenamiento o software.
     
@@ -64,19 +64,19 @@ En el mundo de la tecnología, también tenemos una gran responsabilidad con el 
   
   ·Elegir marcas que usen materiales reciclables y procesos de fabricación sostenibles también suma.
 
-💻 Escribir código más eficiente
+### 💻 Escribir código más eficiente
 
   ·Un código bien optimizado consume menos recursos, lo que se traduce en menos carga para servidores y menos gasto energético.
     
   ·Lo mismo aplica para sitios web y apps: reducir el tamaño de imágenes, optimizar bases de datos y usar tecnologías como edge computing ayuda a disminuir el consumo      innecesario de energía.
 
-🚀 Aprovechar el trabajo remoto y la digitalización
+### 🚀 Aprovechar el trabajo remoto y la digitalización
 
   ·Trabajar desde casa siempre que sea posible reduce el impacto de los traslados (menos tráfico, menos emisiones).
     
   ·Digitalizar documentos y procesos nos ayuda a reducir el desperdicio de papel y tinta.
 
-🌍 Fomentar una cultura más sostenible
+## 🌍 Fomentar una cultura más sostenible
 
   ·Aprender más sobre tecnología verde y compartir ese conocimiento con nuestros equipos.
     
