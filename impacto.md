@@ -19,6 +19,7 @@ Como se ha indicado antes, sus emisiones de CO2 son preocupantes, porque consume
 Centros de datos 
 
   Los servidores y centros de datos consumen enormes cantidades de energía, generando emisiones de carbono.
+  
   Se estima que el sector tecnológico representa entre el 2% y el 4% de las emisiones globales de CO₂, comparable a la industria de la aviación.
   Las grandes empresas como Google, Amazon y Microsoft han apostado por energías renovables para reducir su huella de carbono.
 
@@ -36,8 +37,13 @@ Redes de telecomunicaciones
 
   🌱 ¿Cómo reducir el impacto ambiental de las TI?
 
+  
   Optar por dispositivos reacondicionados y alargar su vida útil.
+  
   Apoyar la economía circular mediante el reciclaje y la reutilización.
+  
   Usar servicios en la nube con certificación de energía renovable.
+  
   Fomentar el software eficiente para reducir el consumo energético.
+  
   Regular y controlar la exportación de basura electrónica.
