@@ -29,7 +29,7 @@ Las grandes empresas tecnológicas como Google, Microsoft y AWS (Amazon Web Serv
   ·Tecnología Circular: Promueve la reutilización de hardware y materiales reciclables.
 
 <p align="center">
-  <img src="/img/microsot.gif" alt="si" width="300">
+  <img src="/img/microsoft.gif" alt="si" width="300">
 </p>
 
 ☁️ AWS (Amazon Web Services)
