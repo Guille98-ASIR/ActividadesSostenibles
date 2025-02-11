@@ -37,6 +37,8 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 [SALLE](https://blogs.salleurl.edu/es/consumo-de-energia-de-un-centro-de-datos)
 
+[CHATGPT](https://chatgpt.com/)
+
 ### Autores  
 
 [I.B.L](https://github.com/IvanBL8)
