@@ -16,6 +16,10 @@ Muchos dispositivos contienen metales como mercurio, plomo y cadmio, que pueden 
 
 Como se ha indicado antes, sus emisiones de CO2 son preocupantes, porque consumen muchas electricidad, para que te puedas hacer una idea, entre todos los cpd, consumen mas energía que Francia.
 
+<p align="center">
+  <img src="/img/fabrica.gif" alt="si" width="300">
+</p>
+
 ## Emisiones de CO₂ y contaminación.
 
 ### Centros de datos 
